@@ -23,6 +23,7 @@
 
 ## ☑ CREDITS
 <detail>
+<summary>
   THANKS YOU VERRY MUCH FOR ALL
 *   [Telethon](https://github.com/LonamiWebs/Telethon)
 *   [Pyrogram](https://github.com/pyrogram/pyrogram)
