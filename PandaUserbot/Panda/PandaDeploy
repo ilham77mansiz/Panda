@@ -1,4 +1,3 @@
-
 #!/bin/bash
 
 _get_ziplink () {
@@ -44,8 +43,8 @@ _run_python_code() {
 _run_pandapack_git() {
     $(_run_python_code 'from git import Repo
 import sys
-OFFICIAL_UPSTREAM_REPO = "https://github.com/PandaUserbot/Panda"
-ACTIVE_BRANCH_NAME = "main"
+OFFICIAL_UPSTREAM_REPO = "https://github.com/ilhammansiz/PandaX_Userbot"
+ACTIVE_BRANCH_NAME = "PandaUserbot"
 repo = Repo.init()
 origin = repo.create_remote("temponame", OFFICIAL_UPSTREAM_REPO)
 origin.fetch()
