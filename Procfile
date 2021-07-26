@@ -1,1 +1,1 @@
-panda: bash PandaUserbot/panda/panda
+panda: bash PandaUserbot/userbot
